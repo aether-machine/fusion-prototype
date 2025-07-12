@@ -1,0 +1,8 @@
+simulation:
+  grid_size: 256
+  radius: 1.0
+  modes:
+    - [3, 2, 1.5]
+    - [4, -3, 0.8]
+    - [2, 5, 1.2]
+  output_image: output/toroidal_harmonics.png
