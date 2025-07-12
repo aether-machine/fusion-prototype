@@ -10,3 +10,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 python main.py
 ```
+
+
+
+[![DOI](https://zenodo.org/badge/1018521249.svg)](https://doi.org/10.5281/zenodo.15869744)
+
